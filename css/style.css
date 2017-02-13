@@ -1,0 +1,13 @@
+li:hover {
+	background-color: tomato;
+	transition: 0.7s;
+	cursor: pointer;
+}
+
+span{
+	float: right;
+}
+
+#main-button {
+	margin-top: 10px;
+}
